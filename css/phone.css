@@ -1,0 +1,36 @@
+/* navigation section */
+#navbar {
+    flex-direction: column;
+}
+
+#home::before{
+    height: 683px
+}
+
+    #home {
+        
+        height: 290px;
+        
+    }
+}
+
+
+/* servicers section */
+#services {
+    flex-direction: column;
+}
+
+
+/* our client */
+
+
+/* contact us */
+#send input {
+    
+    margin-left: 140px;
+}
+
+/* footer section */
+#form-section::before{
+    height: 92%;
+}
